@@ -2,7 +2,7 @@ applications:
 - path: .
   memory: 1024M
   instances: 1
-  domain: mybluemix.net
+  domain: au-syd.mybluemix.net
   name: InterfacepocNew
   host: InterfacepocNew
   disk_quota: 1024M
